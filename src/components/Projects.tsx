@@ -20,6 +20,10 @@ import WebC2 from "../assets/UTMage-2.png";
 import WebC3 from "../assets/UTMage-3.png";
 import WebC4 from "../assets/UTMage-4.png";
 import WebC5 from "../assets/UTMage-5.png";
+import EaseCart1 from "../assets/EaseCart1.png"
+import EaseCart2 from "../assets/EaseCart2.png"
+import EaseCart3 from "../assets/EaseCart3.png"
+import EaseCart4 from "../assets/EaseCart4.png"
 import Petlinx from "../assets/Petlinx.png";
 
 const Projects = () => {
@@ -42,14 +46,14 @@ const Projects = () => {
       isFullPage: false,
     },
     {
-      title: "PixelPing Uptime & Web Vitals UI/UX",
+      title: "EaseCart - E-Commerce UI/UX",
       description:
-        "UI/UX design for a MERN-based monitoring tool featuring uptime tracking, Core Web Vitals dashboards, and a polished marketing site with responsive layout.",
-      images: [WebB1, WebB2, WebB3, WebB4],
-      tags: ["UI/UX", "Web App", "MERN", "Monitoring Tool"],
+        "EaseCart is a modern e-commerce platform with clean, intuitive UI/UX, seamless navigation, curated products, and responsive design for engaging shopping experience.",
+      images: [EaseCart1, EaseCart2, EaseCart3, EaseCart4],
+      tags: ["UI/UX", "Web App", "E-Commerce", "Landing Page"],
       color: "bg-pastel-purple",
       category: "Web Design",
-      year: "2024",
+      year: "2025",
       isFullPage: true,
     },
     {
