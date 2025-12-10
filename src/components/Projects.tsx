@@ -24,6 +24,11 @@ import EaseCart1 from "../assets/EaseCart1.png"
 import EaseCart2 from "../assets/EaseCart2.png"
 import EaseCart3 from "../assets/EaseCart3.png"
 import EaseCart4 from "../assets/EaseCart4.png"
+import PromptHub1 from "../assets/PromptHub1.png"
+import PromptHub2 from "../assets/PromptHub2.png"
+import PromptHub3 from "../assets/PromptHub3.png"
+import PromptHub4 from "../assets/PromptHub4.png"
+import PromptHub5 from "../assets/PromptHub5.png"
 import Petlinx from "../assets/Petlinx.png";
 
 const Projects = () => {
@@ -57,14 +62,14 @@ const Projects = () => {
       isFullPage: true,
     },
     {
-      title: "LessonLint: AI Educational Content Analyzer",
+      title: "PromptHub - AI Prompt Management Platform",
       description:
-        "AI-powered web app UI/UX, analyzing content clarity, reading level, coverage, and assessments to help educators improve learning materials.",
-      images: [WebA1, WebA2, WebA3, WebA4, WebA5, WebA6],
-      tags: ["Web App", "UI/UX", "AI", "Content Analysis", "EdTech"],
+        "UI/UX for a modern prompt workflow platform enabling teams to organize, version, test, and optimize AI prompts in a unified collaborative workspace.",
+      images: [PromptHub1, PromptHub2, PromptHub3, PromptHub4, PromptHub5],
+      tags: ["Web App", "UI/UX", "AI", "Prompt Engineering", "SaaS"],
       color: "bg-pastel-pink",
       category: "Web Design",
-      year: "2024",
+      year: "2025",
       isFullPage: true,
     },
     {
