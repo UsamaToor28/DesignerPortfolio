@@ -75,7 +75,7 @@ const Projects = () => {
       color: "bg-pastel-purple",
       category: "Graphic Design",
       year: "2025",
-      isFullPage: true,
+      isFullPage: false,
     },
     {
       title: "SARIZ Organic Beauty Branding",
@@ -86,7 +86,7 @@ const Projects = () => {
       color: "bg-pastel-purple",
       category: "Graphic Design",
       year: "2025",
-      isFullPage: true,
+      isFullPage: false,
     },
     {
       title: "PromptHub - AI Prompt Management Platform",
