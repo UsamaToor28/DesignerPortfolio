@@ -82,7 +82,7 @@ const Hero = () => {
         </h3>
 
         <h1 className="text-6xl md:text-8xl font-extrabold leading-tight tracking-tight text-zinc-900">
-          UI/UX{" "}
+          Creative{" "}
           <span className="bg-gradient-to-r from-teal-500 to-teal-700 bg-clip-text text-transparent">
             Designer
           </span>

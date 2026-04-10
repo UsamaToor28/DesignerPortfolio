@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://UsamaToor28.github.io/UsamaBinMasoodPortfolio",
+  "homepage": "https://UsamaToor28.github.io/DesignerPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

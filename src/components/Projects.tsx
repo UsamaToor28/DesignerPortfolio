@@ -30,6 +30,11 @@ import PromptHub3 from "../assets/PromptHub3.png"
 import PromptHub4 from "../assets/PromptHub4.png"
 import PromptHub5 from "../assets/PromptHub5.png"
 import Petlinx from "../assets/Petlinx.png";
+import Logo from "../assets/Logo-Portfolio1.png";
+import Brand_Identity_1 from "../assets/Brand Identity 1.png";
+import Brand_Identity_2 from "../assets/Brand Identity 2.png";
+import Brand_Identity_3 from "../assets/Brand Identity 3.png";
+import Brand_Identity_4 from "../assets/Brand Identity 4.png";
 
 const Projects = () => {
   const [filter, setFilter] = useState("All");
@@ -58,6 +63,28 @@ const Projects = () => {
       tags: ["UI/UX", "Web App", "E-Commerce", "Landing Page"],
       color: "bg-pastel-purple",
       category: "Web Design",
+      year: "2025",
+      isFullPage: true,
+    },
+    {
+      title: "Logo Design Collection",
+      description:
+        "A creative showcase of logo designs crafted for various brands, highlighting versatility in brand identity creation through modern, memorable, and visually impactful concepts.",
+      images: [Logo],
+      tags: ["Graphic Design", "Brand Identity", "Logo Design", "Creative Branding"],
+      color: "bg-pastel-purple",
+      category: "Graphic Design",
+      year: "2025",
+      isFullPage: true,
+    },
+    {
+      title: "SARIZ Organic Beauty Branding",
+      description:
+        "A complete brand identity design project for SARIZ Organic Beauty, featuring premium logo design, elegant packaging, product labels, and cohesive branding visuals for natural skincare products.",
+      images: [Brand_Identity_1, Brand_Identity_2, Brand_Identity_3, Brand_Identity_4],
+      tags: ["Graphic Design", "Brand Identity", "Packaging Design", "Beauty Branding"],
+      color: "bg-pastel-purple",
+      category: "Graphic Design",
       year: "2025",
       isFullPage: true,
     },
